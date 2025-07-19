@@ -33,9 +33,4 @@
 &nbsp;
 &nbsp;
 
-<div align='center'>
-  <p>Visitors counter</p>
-  <img align="center" src="https://profile-counter.glitch.me/{joaoay-exe}/count.svg" />
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42e3f5&height=120&section=footer"/>
