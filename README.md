@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wovc&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wovc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
@@ -51,8 +51,8 @@
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true)  
-![Profile Views](https://komarev.com/ghpvc/?username=SEUUSUARIO&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Streak](https://streak-stats.demolab.com?user=wovc&theme=tokyonight&hide_border=true)  
+![Profile Views](https://komarev.com/ghpvc/?username=wovc&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
