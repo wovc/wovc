@@ -1,13 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=200&section=header&text=João&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Back%20-%End&descSize=22&descAlignY=60&fontAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=200&section=header&text=João&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Back%20%End&descSize=22&descAlignY=60&fontAlign=50"/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Hacker-Ethical-informational?style=flat-square&logo=protonvpn&logoColor=031cfc&color=181717" />
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-031cfc?style=flat-square&logo=databricks&logoColor=fff" />
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Builder-031cfc?style=flat-square&logo=openai&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Researcher-181717?style=flat-square&logo=hackthebox&logoColor=031cfc" />
-  <img src="https://img.shields.io/badge/CTF%20Player-181717?style=flat-square&logo=tryhackme&logoColor=031cfc" />
-  <img src="https://img.shields.io/badge/OSINT-Researcher-031cfc?style=flat-square&logo=virustotal&logoColor=fff" />
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=031cfc&size=32&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Cybersecurity+Specialist;Open+Source+Enthusiast;Always+Learning+and+Building" />
