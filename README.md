@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=200&section=header&text=João&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Back%20%End&descSize=22&descAlignY=60&fontAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=200&section=header&text=João&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Back%20End&descSize=22&descAlignY=60&fontAlign=50"/>
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20ML-Builder-031cfc?style=flat-square&logo=openai&logoColor=fff" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=031cfc&size=32&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Cybersecurity+Specialist;Open+Source+Enthusiast;Always+Learning+and+Building" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=031cfc&size=32&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Back+End+Developer;Javascript+Specialist;Open+Source+and+Building" />
 
 <p align="center">
-  <a href="https://github.com/171ntw" target="_blank">
+  <a href="https://github.com/wovc" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=031cfc" />
   </a>
-  <a href="https://www.linkedin.com/in/171ntw" target="_blank">
+  <a href="https://www.linkedin.com/in/wovc" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=031cfc" />
   </a>
-  <a href="mailto:171ntw@envisionapp.com.br" target="_blank">
+  <a href="mailto:wovc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-fff?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
 </p>
